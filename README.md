@@ -98,7 +98,7 @@ Larger vocabulary and more users, dynamic gesture recognition with temporal mode
 ## Team
 
 Built by a five-member multidisciplinary team (CSE, ECE, Mechatronics):
-[YOUR NAME] (hardware integration and embedded ML), Aayush Singh, Manasvi Singh, Vardaa Maheshwari, Aadi Vibhuti.
+Ishan Chaudhary (hardware integration and embedded ML), Aayush Singh, Manasvi Singh, Vardaa Maheshwari, Aadi Vibhuti.
 
 Supervised by Dr. Vasugi K., VIT Chennai.
 
