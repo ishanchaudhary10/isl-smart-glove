@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Arduino / build output
+build/
+*.elf
+*.bin
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Edge Impulse exported library (download your own from your project)
+VAKYA_ISL_Smart_Glove_inferencing/
+*.zip
