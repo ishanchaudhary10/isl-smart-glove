@@ -81,7 +81,9 @@ pip install -r requirements.txt
 python collect_data.py
 ```
 
-Type a sign name and the script records 10 recordings of 100 samples each into `isl_training_data_ACTUAL.csv`. Upload the CSV to Edge Impulse to train.
+Type a sign name and the script records 10 recordings of 100 samples each into `isl_training_data.csv`. Upload the CSV to Edge Impulse to train.
+
+Our dataset is included in this repo: [`data_collection/isl_training_data.csv`](data_collection/isl_training_data.csv). Columns: `label` plus 14 features, which are the five flex sensors (thumb, index, middle, ring, little finger) and the hand's pitch and roll, for the right (R) and left (L) hands. This file has no timestamp column.
 
 > Note: the collector connects to a BLE device named `Vakya_Glove_S3` using the Nordic UART characteristic and expects 14 comma-separated values per packet. Match your firmware's BLE name and UUID to the ones in the script (or edit the script).
 
