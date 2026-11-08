@@ -4,12 +4,12 @@ A low-cost wearable smart glove that translates Indian Sign Language (ISL) gestu
 
 *Vakya* means "sentence" in Sanskrit. Built as a first-year team project at VIT Chennai.
 
-<p align="center">   <img src="media/glove-worn.jpeg" width="300" alt="Vakya smart gloves being worn">   <img src="media/android-app-screenshot.jpeg" width="180" alt="Android app showing live detection"> </p>
+<p align="center">   <img src="media/glove-worn-1.jpeg" width="300" alt="Vakya smart gloves being worn">   <img src="media/android-app-screenshot.jpeg" width="180" alt="Android app showing live detection"> </p>
 
 ## Demo
 
 - Demo video: [`media/demo.mp4`](media/demo.mp4)
-- Glove in use:- Glove photos: [`media/glove-photo-1.jpeg`](media/glove-photo-1.jpeg), [`media/glove-photo-2.jpeg`](media/glove-photo-2.jpeg)
+- Glove in use:- Glove photos: [`media/glove-photo-1.jpeg`](media/glove-photo-1.jpeg)
 
 ## How it works
 
